@@ -14,3 +14,9 @@ TR:Olası tüm kombinasyonları içeren bir liste 05.06.2024
 
 5 Character = 
 Just starts 0xxxx - 1.02GB - 8 File - 08.06.2024
+Just starts 1xxxx - 1.02GB - 8 File - 10.06.2024
+Just starts 2xxxx - 1.02GB - 8 File - 10.06.2024
+
+We have 112 character, 112 x 1.02GB = 114,24GB 
+
+6 Character = 112 x 114,24GB = 12.794,88GB Also this ~ 13TB 
