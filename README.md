@@ -23,3 +23,6 @@ Just starts 2xxxx - 1.02GB - 8 File - 10.06.2024
 We have 112 character, 112 x 1.02GB = 114,24GB 
 
 6 Character = 112 x 114,24GB = 12.794,88GB Also this ~ 13TB 
+
+
+This project eat my all storage
