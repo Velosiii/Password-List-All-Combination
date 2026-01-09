@@ -26,3 +26,6 @@ We have 112 character, 112 x 1.02GB = 114,24GB
 
 
 This project eating my all storage
+
+I forgot my bitlocker flash password,sanırım yeniden başlıyoruz
+
